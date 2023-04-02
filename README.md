@@ -1,5 +1,5 @@
 # To-do-App
 I made todo app using HTML CSS AND JAVASCRIPT.
 Here you can add,check and delete you task accordingly.
-your data will remain as it is evenafter you reload the website.
+your data will remain as it is evenafter you reload the webpage.
 Thanks for reading....
